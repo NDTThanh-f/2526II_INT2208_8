@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="type-of-triangle-tests" />
-        <module name="loan-approval-system-tests" />
+        <module name="loan-approval-module-tests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
