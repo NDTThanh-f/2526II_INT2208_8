@@ -5,7 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ValidTriangleTest/pom.xml" />
+        <option value="$PROJECT_DIR$/loan-approval-system-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/type-of-triangle-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
